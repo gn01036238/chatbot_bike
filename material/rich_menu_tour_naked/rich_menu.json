@@ -1,0 +1,37 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": true,
+  "name": "rich_menu_tour_naked",
+  "chatBarText": "查看更多資訊",
+  "areas": [
+    {
+      "bounds": {
+        "x": 2,
+        "y": 9,
+        "width": 1205,
+        "height": 1363
+      },
+      "action": {
+        "type": "postback",
+        "text": "舒服省油就好~騎帥不騎快",
+        "data": "folder=tour_naked"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1261,
+        "y": 24,
+        "width": 1213,
+        "height": 1363
+      },
+      "action": {
+        "type": "postback",
+        "text": "既然通勤路上都是直線，那我靠排氣量來讓直線也很刺激!",
+        "data": "folder=tour_sportnaked"
+      }
+    }
+  ]
+}

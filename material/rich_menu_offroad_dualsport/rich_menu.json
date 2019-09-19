@@ -1,0 +1,37 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": true,
+  "name": "rich_menu_offroad_dualsport",
+  "chatBarText": "查看更多資訊",
+  "areas": [
+    {
+      "bounds": {
+        "x": 4,
+        "y": 6,
+        "width": 1237,
+        "height": 1379
+      },
+      "action": {
+        "type": "postback",
+        "text": "泥土才是我的最愛!不能飛天的車有什麼好騎的?",
+        "data": "folder=offroad_dualsport_real"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1261,
+        "y": 6,
+        "width": 1222,
+        "height": 1383
+      },
+      "action": {
+        "type": "postback",
+        "text": "其實我越不越野好像也沒差 但滑胎感覺超讚的!",
+        "data": "folder=offroad_dualsport_supermoto"
+      }
+    }
+  ]
+}

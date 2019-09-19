@@ -1,0 +1,28 @@
+[
+{
+  "type": "text",
+  "text": "日本代表:YAMAHA R6"
+},
+    {
+  "type": "image",
+  "originalContentUrl": "https://cdp.azureedge.net/products/USA/YA/2019/MC/SUPERSPORT/YZF-R6/50/TEAM_YAMAHA_BLUE/2000000005.jpg",
+  "previewImageUrl": "https://cdp.azureedge.net/products/USA/YA/2018/MC/SUPERSPORT/YZF-R6/50/INTENSITY_WHITE_-_MATTE_SILVER/2000000046.jpg",
+  "animated": false
+},
+    {
+  "type": "text",
+  "text": "歐洲代表:Triumph Daytona 765R"
+},
+    {
+      "type": "image",
+      "originalContentUrl": "https://cdn.motor1.com/images/mgl/2kKoz/s1/triumph-daytona-765-spy-shots.jpg",
+      "previewImageUrl": "https://cdn.motor1.com/images/mgl/2kKoz/s1/triumph-daytona-765-spy-shots.jpg",
+      "animated": false
+    },
+    {
+  "type": "text",
+  "text": "不喜歡這種車嗎?再來一次!"
+}
+
+
+]

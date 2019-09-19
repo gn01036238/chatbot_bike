@@ -1,0 +1,63 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": true,
+  "name": "rich_menu_begin",
+  "chatBarText": "查看更多資訊",
+  "areas": [
+    {
+      "bounds": {
+        "x": 194,
+        "y": 0,
+        "width": 1034,
+        "height": 694
+      },
+      "action": {
+        "type": "postback",
+        "text": "我是重機菜鳥!有沒有什麼推薦的新手車款?",
+        "data": "menu=rich_menu_newbie"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1233,
+        "y": 0,
+        "width": 1053,
+        "height": 688
+      },
+      "action": {
+        "type": "postback",
+        "text": "我是熱血咖!每個彎都要把輪胎用好用滿!",
+        "data": "menu=rich_menu_sport"
+      }
+    },
+    {
+      "bounds": {
+        "x": 197,
+        "y": 701,
+        "width": 1027,
+        "height": 662
+      },
+      "action": {
+        "type": "postback",
+        "text": "騎車舒服對我來說最重要~",
+        "data": "menu=rich_menu_tour"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1239,
+        "y": 699,
+        "width": 1045,
+        "height": 672
+      },
+      "action": {
+        "type": "postback",
+        "text": "我喜歡大自然!與泥土為伴最棒!",
+        "data": "menu=rich_menu_offroad"
+      }
+    }
+  ]
+}

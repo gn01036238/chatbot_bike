@@ -1,0 +1,37 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": true,
+  "name": "rich_menu_supersport",
+  "chatBarText": "查看更多資訊",
+  "areas": [
+    {
+      "bounds": {
+        "x": 21,
+        "y": 24,
+        "width": 1223,
+        "height": 1487
+      },
+      "action": {
+        "type": "postback",
+        "text": "16000轉的聲浪真的讓人欲罷不能~",
+        "data": "folder=600_super"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1267,
+        "y": 21,
+        "width": 1222,
+        "height": 1436
+      },
+      "action": {
+        "type": "postback",
+        "text": "200P馬力一檔160才是賽車阿!",
+        "data": "folder=1000_super"
+      }
+    }
+  ]
+}

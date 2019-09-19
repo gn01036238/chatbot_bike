@@ -1,0 +1,37 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": true,
+  "name": "rich_menu_sport",
+  "chatBarText": "查看更多資訊",
+  "areas": [
+    {
+      "bounds": {
+        "x": 2,
+        "y": 4,
+        "width": 1239,
+        "height": 1469
+      },
+      "action": {
+        "type": "postback",
+        "text": "都要熱血了當然要騎姿也很熱血阿!",
+        "data": "menu=rich_menu_supersport"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1259,
+        "y": 2,
+        "width": 1237,
+        "height": 1391
+      },
+      "action": {
+        "type": "postback",
+        "text": "彎道上把輪胎用滿了，直線讓前輪在空中就能省輪胎啦",
+        "data": "menu=rich_menu_sportnaked"
+      }
+    }
+  ]
+}

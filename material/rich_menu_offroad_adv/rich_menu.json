@@ -1,0 +1,37 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": true,
+  "name": "rich_menu_offroad_adv",
+  "chatBarText": "查看更多資訊",
+  "areas": [
+    {
+      "bounds": {
+        "x": 209,
+        "y": 0,
+        "width": 975,
+        "height": 1404
+      },
+      "action": {
+        "type": "postback",
+        "text": "小型的也好!省油又更能越野~",
+        "data": "folder=offroad_adv_light"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1205,
+        "y": 6,
+        "width": 1075,
+        "height": 1385
+      },
+      "action": {
+        "type": "postback",
+        "text": "大型的才棒!不然我的露營用具裝上去怎麼跑得動?",
+        "data": "folder=offroad_adv_heavy"
+      }
+    }
+  ]
+}

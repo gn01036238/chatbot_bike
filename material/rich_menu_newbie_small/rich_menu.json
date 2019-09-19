@@ -1,0 +1,37 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": true,
+  "name": "rich_menu_newbie_small",
+  "chatBarText": "查看更多資訊",
+  "areas": [
+    {
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "width": 1214,
+        "height": 1675
+      },
+      "action": {
+        "type": "postback",
+        "text": "街車造型跟騎姿我想會更適合身為菜鳥的我。",
+        "data": "folder=lightweight_naked"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1293,
+        "y": 6,
+        "width": 1207,
+        "height": 1680
+      },
+      "action": {
+        "type": "postback",
+        "text": "就算是小排氣量，依然要熱血!",
+        "data": "folder=lightweight_sport"
+      }
+    }
+  ]
+}

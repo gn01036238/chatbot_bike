@@ -1,0 +1,26 @@
+[
+    {
+  "type": "text",
+  "text": "歐洲代表:KTM RC390"
+},
+    {
+  "type": "image",
+  "originalContentUrl": "https://image.iol.co.za/image/1/process/620x349?source=https://inm-baobab-prod-euwest1.s3.amazonaws.com/public/inm/media/image/2017/07/17/39822105IOLmotpicjul17KTMRC3906.jpg&operation=CROP&offset=326x215&resize=633x355",
+  "previewImageUrl": "https://img.ruten.com.tw/s2/8/83/38/21841790477112_374.jpg",
+  "animated": false
+},
+    {
+  "type": "text",
+  "text": "日本代表:YAMAHA R3"
+},
+    {
+  "type": "image",
+  "originalContentUrl": "https://www.yamaha-motor.com.tw/styles/images/car/r3/story00.jpg",
+  "previewImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9LArs2v_82oYMVICkTlnpVQHCOG19wlnU1zz44nEw6zwFIfbbVA",
+  "animated": false
+},
+    {
+  "type": "text",
+  "text": "不喜歡這種車嗎?再來一次!"
+}
+]

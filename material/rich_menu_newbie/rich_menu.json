@@ -1,0 +1,37 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": true,
+  "name": "rich_menu_newbie",
+  "chatBarText": "查看更多資訊",
+  "areas": [
+    {
+      "bounds": {
+        "x": 11,
+        "y": 4,
+        "width": 1218,
+        "height": 1680
+      },
+      "action": {
+        "type": "postback",
+        "text": "雖然我是新手，但小排氣量不合我胃口!",
+        "data": "menu=rich_menu_newbie_big"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1261,
+        "y": 11,
+        "width": 1010,
+        "height": 1662
+      },
+      "action": {
+        "type": "postback",
+        "text": "感覺小排氣量比較適合身為菜鳥的我!",
+        "data": "menu=rich_menu_newbie_small"
+      }
+    }
+  ]
+}
