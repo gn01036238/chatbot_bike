@@ -1,0 +1,42 @@
+[
+    {
+      "type": "text",
+      "text": "輕量級街車應該合你的胃口!向您推薦:KAWASAKI Z400 \n\n 來點聲浪吧!"
+    },
+    {
+      "type": "image",
+      "originalContentUrl": "https://i.imgur.com/1q9tglV.jpg",
+      "previewImageUrl": "https://i.imgur.com/fWqFAIF.jpg",
+      "animated": false
+    },
+    {
+      "type": "audio",
+      "originalContentUrl": "https://vocaroo.com/media_command.php?media=s0EnF0jAw4L2&command=download_mp3",
+      "duration": 57000
+    },
+    {
+      "type": "template",
+      "altText": "this is a buttons template",
+      "template": {
+        "type": "buttons",
+        "actions": [
+          {
+            "type": "message",
+            "label": "我想了解更多這台車!",
+            "text": "[改成URL動作，有待增加]"
+          },
+          {
+            "type": "message",
+            "label": "我想試駕看看!",
+            "text": "[改成URL動作，有待增加]"
+          }
+        ],
+        "thumbnailImageUrl": "https://i.imgur.com/XUjqoHn.png",
+        "title": "KAWASAKI Z400",
+        "text": "有興趣?來試駕!"
+      }
+    }
+   
+    
+
+]
