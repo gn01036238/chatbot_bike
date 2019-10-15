@@ -1,29 +1,42 @@
 [
-
-{
-  "type": "text",
-  "text": "歐洲代表:BMW G310 GS"
-},
-{
-  "type": "image",
-  "originalContentUrl": "https://attach.mobile01.com/attach/201805/mobile01-073379869dc83bc89b61ff12d472fcfd.jpg",
-  "previewImageUrl": "https://2yrh403fk8vd1hz9ro2n46dd-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/2018-BMW-G-310-GS-Review-Adventure-Motorcycle-ADV-9.jpg",
-  "animated": false
-},
-{
-  "type": "text",
-  "text": "日本代表: KAWASAKI VERSYS 300"
-},
-{
-  "type": "image",
-  "originalContentUrl": "https://ultimatemotorcycling.com/wp-content/uploads/2017/07/2017-Kawasaki-Versys-X-300-Review-adventure-motorcycle-1.jpg",
-  "previewImageUrl": "https://bd.gaadicdn.com/processedimages/kawasaki/versys-x-300/source/v_kawasaki-versys-x-300-std1533107665.jpg",
-  "animated": false
-},
-{
-  "type": "text",
-  "text": "不喜歡這種車嗎?再來一次!"
-}
-
+    {
+      "type": "text",
+      "text": "多功能冒險車也能羽量的~ 向您推薦:BMW G310GS \n\n 來點聲浪吧!"
+    },
+    {
+      "type": "image",
+      "originalContentUrl": "https://i.imgur.com/lTwuGo4.jpg",
+      "previewImageUrl": "https://i.imgur.com/qyNsn6F.jpg",
+      "animated": false
+    },
+    {
+      "type": "audio",
+      "originalContentUrl": "https://vocaroo.com/media_command.php?media=s1UnLmcTN8DY&command=download_mp3",
+      "duration": 22000
+    },
+    {
+      "type": "template",
+      "altText": "更多資訊",
+      "template": {
+        "type": "buttons",
+        "actions": [
+          {
+            "type": "message",
+            "label": "我想了解更多這台車!",
+            "text": "[改成URL動作，有待增加]"
+          },
+          {
+            "type": "message",
+            "label": "我想試駕看看!",
+            "text": "[改成URL動作，有待增加]"
+          }
+        ],
+        "thumbnailImageUrl": "https://i.imgur.com/XUjqoHn.png",
+        "title": "BMW G310GS",
+        "text": "有興趣?來試駕!"
+      }
+    }
+   
+    
 
 ]

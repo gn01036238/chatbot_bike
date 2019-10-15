@@ -1,30 +1,42 @@
 [
     {
       "type": "text",
-      "text": "日本代表:CBR650R"
+      "text": "輕量級街車應該合你的胃口!向您推薦:HONDA CB650R \n\n 來點聲浪吧!"
     },
-    
     {
       "type": "image",
-      "originalContentUrl": "https://www.webike.tw/bikenews/wp-content/uploads/2019/04/19YM0312_0040Ps.jpg",
-      "previewImageUrl": "https://www.webike.tw/bikenews/wp-content/uploads/2019/04/19YM0312_0040Ps.jpg",
-      "animated": false
-    },
-    
-    {
-      "type": "text",
-      "text": "歐洲代表:歐洲人才不玩什麼中量新手跑車勒 給你看第二台日本車:Ninja 650"
-    },
-    
-    {
-      "type": "image",
-      "originalContentUrl": "https://www.supermoto8.net/images/data/14524973_1422580617770188_6602915606767675214_o.jpg",
-      "previewImageUrl": "https://www.supermoto8.net/images/data/14524973_1422580617770188_6602915606767675214_o.jpg",
+      "originalContentUrl": "https://i.imgur.com/YMVIbOR.jpg",
+      "previewImageUrl": "https://i.imgur.com/3QJt21a.jpg",
       "animated": false
     },
     {
-        "type": "text",
-        "text": "不喜歡這種車嗎?再來一次!"
+      "type": "audio",
+      "originalContentUrl": "https://vocaroo.com/media_command.php?media=s1mBNI3Cft2c&command=download_mp3",
+      "duration": 15000
+    },
+    {
+      "type": "template",
+      "altText": "更多資訊",
+      "template": {
+        "type": "buttons",
+        "actions": [
+          {
+            "type": "message",
+            "label": "我想了解更多這台車!",
+            "text": "[改成URL動作，有待增加]"
+          },
+          {
+            "type": "message",
+            "label": "我想試駕看看!",
+            "text": "[改成URL動作，有待增加]"
+          }
+        ],
+        "thumbnailImageUrl": "https://i.imgur.com/XUjqoHn.png",
+        "title": "HONDA CB650R",
+        "text": "有興趣?來試駕!"
+      }
     }
+   
+    
 
 ]

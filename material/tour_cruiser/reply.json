@@ -1,28 +1,42 @@
 [
-{
-  "type": "text",
-  "text": "日本代表:KAWASAKI VULCAN S"
-},
-{
-  "type": "image",
-  "originalContentUrl": "https://img.sub.tw/serGn_fhQX9Ip-og0my-7-QAC8D-eBGWWnb5jCRpFquM/https://s.yimg.com/ob/image/6d0912ba-2446-4739-82f7-c8941962338e.jpg",
-  "previewImageUrl": "https://scontent.ftpe8-2.fna.fbcdn.net/v/t31.0-8/885672_698628203579481_8412075767952319151_o.jpg?_nc_cat=103&_nc_oc=AQlp7YXDy93QR-rgn1cQAxZyyRtGAGosZ70gpyq0W-tvNy4Zie-G_QRAgANsbG4DUXEBcHOs8rJLfEDB44lzca4D&_nc_ht=scontent.ftpe8-2.fna&oh=e260f85b5fb54e6b373c4e6bf51ef027&oe=5E10BCA2",
-  "animated": false
-},
-{
-  "type": "text",
-  "text": "美國代表:INDIAN SCOUT"
-},
-{
-  "type": "image",
-  "originalContentUrl": "https://psmfirestorm.blob.core.windows.net/crs-images/245146/17415/original.jpg",
-  "previewImageUrl": "https://cdp.azureedge.net/products/USA/IDN/2018/MC/CRUISER/SCOUT_BOBBER_JACK_DANIELS/49/MATTE_BLACK/2000000007.jpg",
-  "animated": false
-},
-{
-  "type": "text",
-  "text": "不喜歡這種車嗎?再來一次!"
-}
-
+    {
+      "type": "text",
+      "text": "沒有V型雙缸還敢說自己是嬉皮車阿?!向您推薦:Harley V-ROD \n\n 來點聲浪吧!"
+    },
+    {
+      "type": "image",
+      "originalContentUrl": "https://i.imgur.com/ybfbt3x.jpg",
+      "previewImageUrl": "https://i.imgur.com/9Bhk4pa.jpg",
+      "animated": false
+    },
+    {
+      "type": "audio",
+      "originalContentUrl": "https://vocaroo.com/media_command.php?media=s0VWYxR9iZec&command=download_mp3",
+      "duration": 11000
+    },
+    {
+      "type": "template",
+      "altText": "更多資訊",
+      "template": {
+        "type": "buttons",
+        "actions": [
+          {
+            "type": "message",
+            "label": "我想了解更多這台車!",
+            "text": "[改成URL動作，有待增加]"
+          },
+          {
+            "type": "message",
+            "label": "我想試駕看看!",
+            "text": "[改成URL動作，有待增加]"
+          }
+        ],
+        "thumbnailImageUrl": "https://i.imgur.com/XUjqoHn.png",
+        "title": "HARLEY V-ROD",
+        "text": "有興趣?來試駕!"
+      }
+    }
+   
+    
 
 ]

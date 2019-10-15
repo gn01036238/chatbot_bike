@@ -1,28 +1,42 @@
 [
     {
       "type": "text",
-      "text": "日本代表:SUZUKI GSX R1000R"
+      "text": "公升級仿賽!200bhp的熱血! 向您推薦:YAMAHA R1 \n\n 來點聲浪吧!"
     },
     {
       "type": "image",
-      "originalContentUrl": "https://www.supermoto8.net/images/data/Ryuyo-001.jpg",
-      "previewImageUrl": "https://www.bikesrepublic.com/wp-content/uploads/2018/01/2018-Suzuki-GSXR1000-GSXR1000R-MotoGP-replica_2.jpg",
+      "originalContentUrl": "https://i.imgur.com/kevYtQ7.jpg",
+      "previewImageUrl": "https://i.imgur.com/l2AtH5y.jpg",
       "animated": false
     },
     {
-      "type": "text",
-      "text": "歐洲代表:Ducati Panigale V4"
+      "type": "audio",
+      "originalContentUrl": "https://vocaroo.com/media_command.php?media=s1NOOpNfJe7C&command=download_mp3",
+      "duration": 16000
     },
     {
-      "type": "image",
-      "originalContentUrl": "https://images.ctfassets.net/x7j9qwvpvr5s/5UoQZEtBw4kis4qSc006wq/513e8e0c07420c0219e4b96182a818d7/Panigale-V4R-Red-MY19-Ambience-13-Gallery-1920x1080.jpg",
-      "previewImageUrl": "https://www.maxim.com/.image/t_share/MTU5Njc2NTgwOTc1NjE3MjM4/facebook-linked_image___panigale-v4r-red-my19-11-gallery-1920x1080.jpg",
-      "animated": false
-    },
-    {
-      "type": "text",
-      "text": "不喜歡這種車嗎?再來一次!"
+      "type": "template",
+      "altText": "更多資訊",
+      "template": {
+        "type": "buttons",
+        "actions": [
+          {
+            "type": "message",
+            "label": "我想了解更多這台車!",
+            "text": "[改成URL動作，有待增加]"
+          },
+          {
+            "type": "message",
+            "label": "我想試駕看看!",
+            "text": "[改成URL動作，有待增加]"
+          }
+        ],
+        "thumbnailImageUrl": "https://i.imgur.com/XUjqoHn.png",
+        "title": "YAMAHA R1",
+        "text": "有興趣?來試駕!"
+      }
     }
-
+   
+    
 
 ]

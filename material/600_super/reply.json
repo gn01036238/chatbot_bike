@@ -1,28 +1,42 @@
 [
-{
-  "type": "text",
-  "text": "日本代表:YAMAHA R6"
-},
     {
-  "type": "image",
-  "originalContentUrl": "https://cdp.azureedge.net/products/USA/YA/2019/MC/SUPERSPORT/YZF-R6/50/TEAM_YAMAHA_BLUE/2000000005.jpg",
-  "previewImageUrl": "https://cdp.azureedge.net/products/USA/YA/2018/MC/SUPERSPORT/YZF-R6/50/INTENSITY_WHITE_-_MATTE_SILVER/2000000046.jpg",
-  "animated": false
-},
-    {
-  "type": "text",
-  "text": "歐洲代表:Triumph Daytona 765R"
-},
+      "type": "text",
+      "text": "600cc級仿賽!一萬六千轉!你的鄰居肯定很討厭你!向您推薦:YAMHA R6 \n\n 來點聲浪吧!"
+    },
     {
       "type": "image",
-      "originalContentUrl": "https://cdn.motor1.com/images/mgl/2kKoz/s1/triumph-daytona-765-spy-shots.jpg",
-      "previewImageUrl": "https://cdn.motor1.com/images/mgl/2kKoz/s1/triumph-daytona-765-spy-shots.jpg",
+      "originalContentUrl": "https://i.imgur.com/4jbZgOX.jpg",
+      "previewImageUrl": "https://i.imgur.com/EjoTTQR.jpg",
       "animated": false
     },
     {
-  "type": "text",
-  "text": "不喜歡這種車嗎?再來一次!"
-}
-
+      "type": "audio",
+      "originalContentUrl": "https://vocaroo.com/media_command.php?media=s1KS9sBTYrVI&command=download_mp3",
+      "duration": 16000
+    },
+    {
+      "type": "template",
+      "altText": "更多資訊",
+      "template": {
+        "type": "buttons",
+        "actions": [
+          {
+            "type": "message",
+            "label": "我想了解更多這台車!",
+            "text": "[改成URL動作，有待增加]"
+          },
+          {
+            "type": "message",
+            "label": "我想試駕看看!",
+            "text": "[改成URL動作，有待增加]"
+          }
+        ],
+        "thumbnailImageUrl": "https://i.imgur.com/XUjqoHn.png",
+        "title": "YAMAHA R6",
+        "text": "有興趣?來試駕!"
+      }
+    }
+   
+    
 
 ]

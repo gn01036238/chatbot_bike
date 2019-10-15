@@ -1,27 +1,42 @@
 [
-{
-  "type": "text",
-  "text": "日本代表:KAWASAKI Z400"
-},
     {
-  "type": "image",
-  "originalContentUrl": "https://womanrider.com/wp-content/uploads/2019/03/@kevinwingphoto_Kaw_Z400-1220.jpg",
-  "previewImageUrl": "https://cdn2.ettoday.net/images/4155/d4155027.jpg",
-  "animated": false
-},
+      "type": "text",
+      "text": "輕量級街車應該合你的胃口!向您推薦:KAWASAKI Z400 \n\n 來點聲浪吧!"
+    },
     {
-  "type": "text",
-  "text": "歐洲代表:KTM DUKE 390"
-},
+      "type": "image",
+      "originalContentUrl": "https://i.imgur.com/1q9tglV.jpg",
+      "previewImageUrl": "https://i.imgur.com/fWqFAIF.jpg",
+      "animated": false
+    },
     {
-  "type": "image",
-  "originalContentUrl": "https://autos.yahoo.com.tw/p/r/w1200/bike-trim/May2018/3b7da27ab1f35aa9050a72416d609c29.jpeg",
-  "previewImageUrl": "https://ik.imagekit.io/hj8sm3kk7/medium/gallery/exterior/89/1804/ktm-duke-390-90830.jpg",
-  "animated": false
-},
+      "type": "audio",
+      "originalContentUrl": "https://vocaroo.com/media_command.php?media=s0EnF0jAw4L2&command=download_mp3",
+      "duration": 57000
+    },
     {
-  "type": "text",
-  "text": "不喜歡這種車嗎?再來一次!"
-}
+      "type": "template",
+      "altText": "更多資訊",
+      "template": {
+        "type": "buttons",
+        "actions": [
+          {
+            "type": "message",
+            "label": "我想了解更多這台車!",
+            "text": "[改成URL動作，有待增加]"
+          },
+          {
+            "type": "message",
+            "label": "我想試駕看看!",
+            "text": "[改成URL動作，有待增加]"
+          }
+        ],
+        "thumbnailImageUrl": "https://i.imgur.com/XUjqoHn.png",
+        "title": "KAWASAKI Z400",
+        "text": "有興趣?來試駕!"
+      }
+    }
+   
+    
 
 ]

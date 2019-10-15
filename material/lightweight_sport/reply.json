@@ -1,26 +1,41 @@
 [
+    
+   {
+      "type": "text",
+      "text": "輕量級仿賽應該合你的胃口!向您推薦:YAMAHA R3 \n\n 來點聲浪吧!"
+   },
+   {
+      "type": "image",
+      "originalContentUrl": "https://i.imgur.com/YD8oR78.jpg",
+      "previewImageUrl": "https://i.imgur.com/Vd2Lmar.jpg",
+      "animated": false
+   },
+   {
+      "type": "audio",
+      "originalContentUrl": "https://vocaroo.com/media_command.php?media=s0XnTise3BOS&command=download_mp3",
+      "duration": 6000
+   },
     {
-  "type": "text",
-  "text": "歐洲代表:KTM RC390"
-},
-    {
-  "type": "image",
-  "originalContentUrl": "https://image.iol.co.za/image/1/process/620x349?source=https://inm-baobab-prod-euwest1.s3.amazonaws.com/public/inm/media/image/2017/07/17/39822105IOLmotpicjul17KTMRC3906.jpg&operation=CROP&offset=326x215&resize=633x355",
-  "previewImageUrl": "https://img.ruten.com.tw/s2/8/83/38/21841790477112_374.jpg",
-  "animated": false
-},
-    {
-  "type": "text",
-  "text": "日本代表:YAMAHA R3"
-},
-    {
-  "type": "image",
-  "originalContentUrl": "https://www.yamaha-motor.com.tw/styles/images/car/r3/story00.jpg",
-  "previewImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9LArs2v_82oYMVICkTlnpVQHCOG19wlnU1zz44nEw6zwFIfbbVA",
-  "animated": false
-},
-    {
-  "type": "text",
-  "text": "不喜歡這種車嗎?再來一次!"
+  "type": "template",
+  "altText": "更多資訊",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "message",
+        "label": "我想了解更多這台車!",
+        "text": "[改成URL動作，有待增加]"
+      },
+      {
+        "type": "message",
+        "label": "我想試駕看看!",
+        "text": "[改成URL動作，有待增加]"
+      }
+    ],
+    "thumbnailImageUrl": "https://i.imgur.com/XUjqoHn.png",
+    "title": "YAMAHA R3",
+    "text": "有興趣?來試駕!"
+  }
 }
+   
 ]

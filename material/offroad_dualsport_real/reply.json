@@ -1,31 +1,42 @@
 [
-{
-  "type": "text",
-  "text": "日本代表:KAWASAKI KLX 250"
-},
     {
-  "type": "image",
-  "originalContentUrl": "https://cdp.azureedge.net/products/USA/KA/2018/MC/DUALPURP/KLX_250_CAMO/50/MATRIX_CAMO_GRAY_-_METALLIC_MATTE_CARBON_GRAY/2000000028.jpg",
-  "previewImageUrl": "https://dirtbikemagazine.com/wp-content/uploads/2018/06/KLXsunrise.jpg",
-  "animated": false
-},
+      "type": "text",
+      "text": "真正的越野車不會向任何道路需求妥協!!向您推薦:KTM 350 EXC-F \n\n 來點聲浪吧!"
+    },
     {
-  "type": "text",
-  "text": "歐洲代表:KTM 350 EXC-F"
-},
+      "type": "image",
+      "originalContentUrl": "https://i.imgur.com/3D08H49.jpg",
+      "previewImageUrl": "https://i.imgur.com/Y5Idb6F.jpg",
+      "animated": false
+    },
     {
-  "type": "image",
-  "originalContentUrl": "https://media2.motoonline.com.au/wp-content/uploads/2016/05/2017-KTM-350EXC-F-Action2.jpg",
-  "previewImageUrl": "https://dirtbiketest.com/wp-content/uploads/2018/03/2018-KTM-350EXC-1.jpg",
-  "animated": false
-},
+      "type": "audio",
+      "originalContentUrl": "https://vocaroo.com/media_command.php?media=s18wZhKoK0OW&command=download_mp3",
+      "duration": 17000
+    },
     {
-  "type": "text",
-  "text": "不喜歡這種車嗎?再來一次!"
-}
+      "type": "template",
+      "altText": "更多資訊",
+      "template": {
+        "type": "buttons",
+        "actions": [
+          {
+            "type": "message",
+            "label": "我想了解更多這台車!",
+            "text": "[改成URL動作，有待增加]"
+          },
+          {
+            "type": "message",
+            "label": "我想試駕看看!",
+            "text": "[改成URL動作，有待增加]"
+          }
+        ],
+        "thumbnailImageUrl": "https://i.imgur.com/XUjqoHn.png",
+        "title": "KTM 350 EXC-F",
+        "text": "有興趣?來試駕!"
+      }
+    }
+   
     
-
-
-
 
 ]

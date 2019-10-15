@@ -1,27 +1,42 @@
 [
-{
-  "type": "text",
-  "text": "歐洲代表:BMW R NINE T"
-},
-{
-  "type": "image",
-  "originalContentUrl": "https://www.vividracing.com/images/bmw-rninet-125hp-bike.jpg",
-  "previewImageUrl": "https://cdn.gearpatrol.com/wp-content/uploads/2016/11/BMW-R9T-Gear-Patrol-1-1940x1300.jpg",
-  "animated": false
-},
-{
-  "type": "text",
-  "text": "日本代表:SUZUKI SV650"
-},
-{
-  "type": "image",
-  "originalContentUrl": "https://www.supermoto8.net/images/article/d1647e4394d45297abbdb292a67098f82.jpg",
-  "previewImageUrl": "https://motodemic.com/wp-content/uploads/2019/03/002_sv650-led-headlight-upgrade.jpg",
-  "animated": false
-},
-{
-  "type": "text",
-  "text": "不喜歡這種車嗎?再來一次!"
-}
+    {
+      "type": "text",
+      "text": "又能孤輪又能休旅~中量街車也是不錯的選擇!!向您推薦:YAMAHA MT 07 \n\n 來點聲浪吧!"
+    },
+    {
+      "type": "image",
+      "originalContentUrl": "https://i.imgur.com/kMSg3li.jpg",
+      "previewImageUrl": "https://i.imgur.com/Er2lMru.jpg",
+      "animated": false
+    },
+    {
+      "type": "audio",
+      "originalContentUrl": "https://vocaroo.com/media_command.php?media=s1QyRT0cCCG0&command=download_mp3",
+      "duration": 11000
+    },
+    {
+      "type": "template",
+      "altText": "更多資訊",
+      "template": {
+        "type": "buttons",
+        "actions": [
+          {
+            "type": "message",
+            "label": "我想了解更多這台車!",
+            "text": "[改成URL動作，有待增加]"
+          },
+          {
+            "type": "message",
+            "label": "我想試駕看看!",
+            "text": "[改成URL動作，有待增加]"
+          }
+        ],
+        "thumbnailImageUrl": "https://i.imgur.com/XUjqoHn.png",
+        "title": "YAMAHA MT 07",
+        "text": "有興趣?來試駕!"
+      }
+    }
+   
+    
 
 ]

@@ -1,28 +1,42 @@
 [
-{
-  "type": "text",
-  "text": "日本代表:KAWASAKI Z900 RS"
-},
     {
-  "type": "image",
-  "originalContentUrl": "https://img.jpcycles.com/blog/images/2019/05/DSC_0076-1_V1.jpg",
-  "previewImageUrl": "https://cdp.azureedge.net/products-private/prod/995f58f2-aeb7-4986-9fe4-e9e1ceb2d190/40e9b14c-5ac1-437d-81bd-a5d2012d6342/00000000-0000-0000-0000-000000000000/04e1e84a-4880-47ed-9970-a83f01281d06/907438b3-406c-47b7-9a92-aa69016d716a/6000000001.jpg",
-  "animated": false
-},
+      "type": "text",
+      "text": "破百匹馬力配上經典風情~!向您推薦:KAWASAKI Z900RS \n\n 來點聲浪吧!"
+    },
     {
-  "type": "text",
-  "text": "歐洲代表:DUCATI MONSTER 1200S"
-},
+      "type": "image",
+      "originalContentUrl": "https://i.imgur.com/xq9rMQb.jpg",
+      "previewImageUrl": "https://i.imgur.com/JmEw78z.jpg",
+      "animated": false
+    },
     {
-  "type": "image",
-  "originalContentUrl": "https://autowise.com/wp-content/uploads/2016/11/Monster1200S_2.jpg",
-  "previewImageUrl": "https://mcn-images.bauersecure.com/upload/302631/images/monster-1200s.jpg",
-  "animated": false
-},
+      "type": "audio",
+      "originalContentUrl": "https://vocaroo.com/media_command.php?media=s1iaGYaIAyPC&command=download_mp3",
+      "duration": 13000
+    },
     {
-  "type": "text",
-  "text": "不喜歡這種車嗎?再來一次!"
-}
+      "type": "template",
+      "altText": "更多資訊",
+      "template": {
+        "type": "buttons",
+        "actions": [
+          {
+            "type": "message",
+            "label": "我想了解更多這台車!",
+            "text": "[改成URL動作，有待增加]"
+          },
+          {
+            "type": "message",
+            "label": "我想試駕看看!",
+            "text": "[改成URL動作，有待增加]"
+          }
+        ],
+        "thumbnailImageUrl": "https://i.imgur.com/XUjqoHn.png",
+        "title": "KAWASAKI Z900RS",
+        "text": "有興趣?來試駕!"
+      }
+    }
+   
     
 
 ]

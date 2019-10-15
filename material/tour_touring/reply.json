@@ -1,28 +1,42 @@
 [
-{
-  "type": "text",
-  "text": "日本代表:YAMAHA STAR VENTURE"
-},
-{
-  "type": "image",
-  "originalContentUrl": "https://ultimatemotorcycling.com/wp-content/uploads/2018/02/2018-Yamaha-Star-Venture-Review-Touring-Motorcycle-2.jpg",
-  "previewImageUrl": "https://cdn.shopify.com/s/files/1/0333/0021/products/2018_Yamaha_Star_Venture_Intercontinental_Cruiser_Motocycle_Central_Florida_PowerSports_3.jpg?v=1504658972",
-  "animated": false
-},
-{
-  "type": "text",
-  "text": "歐洲代表:BMW K1600GT"
-},
-{
-  "type": "image",
-  "originalContentUrl": "https://www.motoplanete.com/bmw/zoom-700px/BMW-K-1600-GT-2018-700px.jpg",
-  "previewImageUrl": "https://pictures.topspeed.com/IMG/jpg/201807/2018-bmw-k-1600-gt-15.jpg",
-  "animated": false
-},
-{
-  "type": "text",
-  "text": "不喜歡這種車嗎?再來一次!"
-}
-
+    {
+      "type": "text",
+      "text": "舒適的休旅車配上直列六缸~向您推薦:BMW K1600GT \n\n 來點聲浪吧!"
+    },
+    {
+      "type": "image",
+      "originalContentUrl": "https://i.imgur.com/goi942J.jpg",
+      "previewImageUrl": "https://i.imgur.com/ddb0goy.jpg",
+      "animated": false
+    },
+    {
+      "type": "audio",
+      "originalContentUrl": "https://vocaroo.com/media_command.php?media=s0PO3GZZQ8m8&command=download_mp3",
+      "duration": 19000
+    },
+    {
+      "type": "template",
+      "altText": "更多資訊",
+      "template": {
+        "type": "buttons",
+        "actions": [
+          {
+            "type": "message",
+            "label": "我想了解更多這台車!",
+            "text": "[改成URL動作，有待增加]"
+          },
+          {
+            "type": "message",
+            "label": "我想試駕看看!",
+            "text": "[改成URL動作，有待增加]"
+          }
+        ],
+        "thumbnailImageUrl": "https://i.imgur.com/XUjqoHn.png",
+        "title": "BMW K1600GT",
+        "text": "有興趣?來試駕!"
+      }
+    }
+   
+    
 
 ]

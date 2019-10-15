@@ -1,26 +1,39 @@
 [
     {
       "type": "text",
-      "text": "日系代表:CB650R"
+      "text": "中量級街車應該合你的胃口!向您推薦:CB650R \n\n 來點聲浪吧!"
     },
     {
       "type": "image",
-      "originalContentUrl": "https://www.supermoto8.net/images/data/2_DSCF2196.jpg",
-      "previewImageUrl": "https://www.supermoto8.net/images/data/2_DSCF2196.jpg",
+      "originalContentUrl": "https://i.imgur.com/j93aAqZ.jpg",
+      "previewImageUrl": "https://i.imgur.com/EgfmMtp.jpg",
       "animated": false
     },
     {
-      "type": "text",
-      "text": "歐系代表:Street Triple"
+      "type": "audio",
+      "originalContentUrl": "https://vocaroo.com/media_command.php?media=s1mBNI3Cft2c&command=download_mp3",
+      "duration": 15000
     },
     {
-      "type": "image",
-      "originalContentUrl": "https://www.motorcycle.com/blog/wp-content/uploads/2018/01/triumph-street-triple-rs.jpg",
-      "previewImageUrl": "https://www.motorcycle.com/blog/wp-content/uploads/2018/01/triumph-street-triple-rs.jpg",
-      "animated": false
-    },
-    {
-      "type": "text",
-      "text": "不喜歡這種車嗎?再來一次!"
+      "type": "template",
+      "altText": "更多資訊",
+      "template": {
+        "type": "buttons",
+        "actions": [
+          {
+            "type": "message",
+            "label": "我想了解更多這台車!",
+            "text": "[改成URL動作，有待增加]"
+          },
+          {
+            "type": "message",
+            "label": "我想試駕看看!",
+            "text": "[改成URL動作，有待增加]"
+          }
+        ],
+        "thumbnailImageUrl": "https://i.imgur.com/XUjqoHn.png",
+        "title": "HONDA CB650R",
+        "text": "有興趣?來試駕!"
+      }
     }
 ]
